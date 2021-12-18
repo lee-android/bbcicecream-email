@@ -15,7 +15,7 @@
 <!--header-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/headerlogo.jpg?raw=true" alt="bbc header logo" />
+            <mj-image href="https://www.bbcicecream.com/" src="https://raw.githubusercontent.com/lee-android/bbcicecream-email-mjml/main/img/headerlogo.jpg?raw=true" alt="bbc header logo" />
         </mj-column>
     </mj-section>
 <!--end of header-->
@@ -23,7 +23,7 @@
 <!--shirt 1-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt1header.jpg?raw=true" alt="icecream halloween tee" />
+            <mj-image href="https://raw.githubusercontent.com/lee-android/bbcicecream-email-mjml/main/img/shirt1header.jpg?raw=true" alt="icecream halloween tee" />
             <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees/products/ic-skull-coneman-tee-black-h21-oct" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt1.jpg?raw=true" alt="icecream halloween tee product" />
         </mj-column>     
     </mj-section>
@@ -32,7 +32,7 @@
 <!--shirt 2-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt2header.jpg?raw=true" alt="bbc halloween tee" />
+            <mj-image href="https://raw.githubusercontent.com/lee-android/bbcicecream-email-mjml/main/img/shirt2header.jpg?raw=true" alt="bbc halloween tee" />
             <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees/products/bbc-skull-starfield-tee-black-h21-oct" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt2.jpg?raw=true" alt="bbc halloween tee product" />
         </mj-column>     
     </mj-section>
@@ -41,9 +41,9 @@
 <!--lookbook-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/lookbooklet.jpg?raw=true" alt="Halloween Lookbooklet" />
+            <mj-image href="https://raw.githubusercontent.com/lee-android/bbcicecream-email-mjml/main/img/lookbooklet.jpg?raw=true" alt="Halloween Lookbooklet" />
             <mj-image src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/bottom-stars.png?raw=true" alt="" />
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/klarna.jpg?raw=true" alt="Shop with Klarna" />
+            <mj-image href="https://raw.githubusercontent.com/lee-android/bbcicecream-email-mjml/main/img/klarna.jpg?raw=true" alt="Shop with Klarna" />
         </mj-column>
     </mj-section>
 <!--end of lookbook-->

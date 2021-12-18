@@ -15,7 +15,7 @@
 <!--header-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/headerlogo.jpg?raw=true" alt="bbc header logo" />
+            <mj-image href="https://www.bbcicecream.com/" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/headerlogo.jpg?raw=true" alt="bbc header logo" />
         </mj-column>
     </mj-section>
 <!--end of header-->
@@ -23,8 +23,8 @@
 <!--shirt 1-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/shirt1header.jpg?raw=true" alt="icecream halloween tee" />
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees/products/ic-skull-coneman-tee-black-h21-oct" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/shirt1.jpg?raw=true" alt="icecream halloween tee product" />
+            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt1header.jpg?raw=true" alt="icecream halloween tee" />
+            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees/products/ic-skull-coneman-tee-black-h21-oct" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt1.jpg?raw=true" alt="icecream halloween tee product" />
         </mj-column>     
     </mj-section>
 <!--end shirt 1-->
@@ -32,8 +32,8 @@
 <!--shirt 2-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/shirt2header.jpg?raw=true" alt="bbc halloween tee" />
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees/products/bbc-skull-starfield-tee-black-h21-oct" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/shirt2.jpg?raw=true" alt="bbc halloween tee product" />
+            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt2header.jpg?raw=true" alt="bbc halloween tee" />
+            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees/products/bbc-skull-starfield-tee-black-h21-oct" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shirt2.jpg?raw=true" alt="bbc halloween tee product" />
         </mj-column>     
     </mj-section>
 <!--end shirt 2-->
@@ -41,9 +41,9 @@
 <!--lookbook-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/lookbooklet.jpg?raw=true" alt="Halloween Lookbooklet" />
-            <mj-image src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/bottom-stars.png?raw=true" alt="" />
-            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/klarna.jpg?raw=true" alt="Shop with Klarna" />
+            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/lookbooklet.jpg?raw=true" alt="Halloween Lookbooklet" />
+            <mj-image src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/bottom-stars.png?raw=true" alt="" />
+            <mj-image href="https://www.bbcicecream.com/collections/bbc-icecream-halloween-tees" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/klarna.jpg?raw=true" alt="Shop with Klarna" />
         </mj-column>
     </mj-section>
 <!--end of lookbook-->
@@ -51,29 +51,29 @@
 <!--footer-->
     <mj-section>
         <mj-column>
-            <mj-image href="https://www.bbcicecream.com/" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/bottomlogo.jpg?raw=true" alt="bbc logo" />
-            <mj-image href="https://www.bbcicecream.com" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/shop.png?raw=true" alt="shop" />
-            <mj-image href="https://www.bbcicecream.com/pages/brands" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/brands.png?raw=true" alt="brands" />
-            <mj-image href="https://www.bbcicecream.com/blogs/news/" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/blog.png?raw=true" alt="blog" />
-            <mj-image href="bbcicecream.com/pages/contact" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/contact.png?raw=true" alt="contact" />
+            <mj-image href="https://www.bbcicecream.com/" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/bottomlogo.jpg?raw=true" alt="bbc logo" />
+            <mj-image href="https://www.bbcicecream.com" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/shop.png?raw=true" alt="shop" />
+            <mj-image href="https://www.bbcicecream.com/pages/brands" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/brands.png?raw=true" alt="brands" />
+            <mj-image href="https://www.bbcicecream.com/blogs/news/" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/blog.png?raw=true" alt="blog" />
+            <mj-image href="bbcicecream.com/pages/contact" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/contact.png?raw=true" alt="contact" />
         </mj-column>
     </mj-section>
     <mj-section background-color="#000000">
         <mj-group width="30%">
             <mj-column>
-                <mj-image href="https://www.facebook.com/BillionaireBoysClubIceCream" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/facebook.jpg?raw=true" alt="facebook" width="40px"/>
+                <mj-image href="https://www.facebook.com/BillionaireBoysClubIceCream" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/facebook.jpg?raw=true" alt="facebook" width="40px"/>
             </mj-column>
             <mj-column>
-                <mj-image href="https://twitter.com/bbcicecream" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/twitter.jpg?raw=true" alt="twitter" width="40px"/>
+                <mj-image href="https://twitter.com/bbcicecream" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/twitter.jpg?raw=true" alt="twitter" width="40px"/>
             </mj-column>
             <mj-column>
-                <mj-image href="https://www.instagram.com/bbcicecream/" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/instagram.jpg?raw=true" alt="instagram" width="40px"/>
+                <mj-image href="https://www.instagram.com/bbcicecream/" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/instagram.jpg?raw=true" alt="instagram" width="40px"/>
             </mj-column>
             <mj-column>
-                <mj-image href="https://www.snapchat.com/add/bbc_icecream" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/snapchat.jpg?raw=true" alt="snapchat" width="40px"/>
+                <mj-image href="https://www.snapchat.com/add/bbc_icecream" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/snapchat.jpg?raw=true" alt="snapchat" width="40px"/>
             </mj-column>
             <mj-column>
-                <mj-image href="https://bbcicecream.tumblr.com/" src="https://github.com/lee-android/email-by-bbcicecream/blob/main/dist/assets/img/tumblr.jpg?raw=true" alt="tumblr" width="40px"/>
+                <mj-image href="https://bbcicecream.tumblr.com/" src="https://github.com/lee-android/email-by-bbcicecream-mjml/blob/main/dist/assets/img/tumblr.jpg?raw=true" alt="tumblr" width="40px"/>
             </mj-column>
         </mj-group>
     </mj-section>
